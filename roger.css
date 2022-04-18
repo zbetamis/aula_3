@@ -1,0 +1,47 @@
+
+#top{
+	width: 100%;
+	height: 200px;
+	background-image: url(https://i.pinimg.com/736x/0b/55/80/0b5580faa6a84a521a2e3cf96ac07677.jpg) ;
+}
+#meio{
+	width: 80%;
+	height: 100%;
+	margin-top:5%;
+	margin-left:auto;
+	margin-right: auto;
+	background-image: url(https://i.pinimg.com/736x/0b/55/80/0b5580faa6a84a521a2e3cf96ac07677.jpg) ;
+}
+#rp{
+	width: 100%;
+	height: 100px;
+	margin-top:5%;
+	text-align: center;
+	color:#800000;
+	font-size:20px;
+	background-image: url(https://i.pinimg.com/736x/0b/55/80/0b5580faa6a84a521a2e3cf96ac07677.jpg) ;
+}
+
+.r{
+	font-size: 45px; 
+	color:  #800000;
+	text-align: center;
+	text-shadow: 2px 2px 2px white; 
+	text-decoration-line: underline;    
+	text-decoration-color: black;  
+   
+}
+img{
+	width: 100%
+	height:100px;
+}
+
+p{
+	font-size: 30px; 
+	font-style: initial;
+	color: white;
+	text-align: center;
+	
+}
+
+
